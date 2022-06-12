@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="./rotation.js"></script>
+  </head>
+  <body>
+    <a-scene background="color:dodgerblue">
+      <a-assets>
+        <a-asset-item src="./assets/race_trackkarting_track_based_on_south_garda/scene.gltf" id="track"></a-asset-item>
+        <a-asset-item src="./assets/71_plymouth_road_runner/scene.gltf" id="racecar"></a-asset-item>
+      </a-assets>
+      <a-camera wasd-controls-enabled="false" position="-2 16 25"></a-camera>
+      <a-entity position="0 -15 -20" rotation="0 -90 0" scale="35 30 35" gltf-model="#track"></a-entity>
+      <a-entity car-rotation position="-2 -14 -45" scale="01 01 01" gltf-model="#racecar" rotation="0 180 0"></a-entity>
+    </a-scene>
+  </body>
+</html>

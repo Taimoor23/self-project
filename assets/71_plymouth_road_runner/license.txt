@@ -1,0 +1,11 @@
+Model Information:
+* title:	'71 Plymouth Road Runner
+* source:	https://sketchfab.com/3d-models/71-plymouth-road-runner-515eed0f00204e0097b20366f8ce113d
+* author:	S.Throop (https://sketchfab.com/Han.T)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "'71 Plymouth Road Runner" (https://sketchfab.com/3d-models/71-plymouth-road-runner-515eed0f00204e0097b20366f8ce113d) by S.Throop (https://sketchfab.com/Han.T) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
